@@ -34,7 +34,7 @@ nav {
 
 /* *ONE-BODY */
 .main-one {
-  background-image: url(/assets/hero-bg.png);
+  background-image: url(/images/hero-bg.png);
   height: 652px;
   display: flex;
   flex-direction: column;
